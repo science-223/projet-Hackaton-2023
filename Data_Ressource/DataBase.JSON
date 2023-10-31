@@ -1,0 +1,20 @@
+
+{"intents": [
+        {"vehicule": "Vehicule",
+          "Voiture": ["Citadine", "Cabriolet", "Berline", "SUV", "4x4"],
+          "note eco" : [8, 6, 6.5, 4, 4]
+        },
+        {"énergie": " Energie",
+          "energie": ["Essence", "Electrique", "gaze", "Diesel", "Hybride"],
+          "note eco" : [5, 9, 6, 4, 7]
+        },
+        {"kilometrage": "km",
+          "Distance": ["5-10K/km", "10-15K/km", "15-20K/km", "20-25K/km", "25-30K/km"],
+          "note eco" : [9, 7, 5, 3, 1]
+        },
+        {"année": "km",
+          "Anner": ["1960-1970", "1970-1980", "1990-2000", "2000-2010", "Après 2010"],
+          "note eco" : [1, 2, 4, 5, 7]
+        }
+    ]
+}
